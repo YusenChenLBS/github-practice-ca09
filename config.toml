@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://yusenchenkk.netlify.app/"
 languageCode = "en-us"
-title = "YusenChen"
+title = "Yusen's Portfolio"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,7 +19,7 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "YusenChen"
+  name = "Yusen Chen"
   description = "Your description"
 
   # Link custom assets relative to /static
@@ -37,7 +37,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
+    title = "Yusen Chen"
     subtitle = "By HTML5 Up"
     menu = "Menu"
     # Optional logo as brand stored in img/
